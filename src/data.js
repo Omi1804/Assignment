@@ -25,7 +25,7 @@ export const cardDetails = [
     liked: false,
     mostLiked: true,
     views: "41,172",
-    stars: 3.82,
+    stars: 4.45,
     address: {
       shortAddress: "Sushant Lok 2, Gurgaon",
       fullAddress:
@@ -43,7 +43,7 @@ export const cardDetails = [
     liked: false,
     mostLiked: true,
     views: "41,172",
-    stars: 3.82,
+    stars: 3.21,
     address: {
       shortAddress: "Sushant Lok 2, Gurgaon",
       fullAddress:
@@ -61,7 +61,7 @@ export const cardDetails = [
     liked: false,
     mostLiked: true,
     views: "41,172",
-    stars: 3.82,
+    stars: 4.09,
     address: {
       shortAddress: "Sushant Lok 2, Gurgaon",
       fullAddress:
@@ -79,7 +79,7 @@ export const cardDetails = [
     liked: false,
     mostLiked: true,
     views: "41,172",
-    stars: 3.82,
+    stars: 4.16,
     address: {
       shortAddress: "Sushant Lok 2, Gurgaon",
       fullAddress:
@@ -114,7 +114,7 @@ export const cardDetails = [
     liked: false,
     mostLiked: true,
     views: "41,172",
-    stars: 3.82,
+    stars: 1.82,
     address: {
       shortAddress: "Sushant Lok 2, Gurgaon",
       fullAddress:

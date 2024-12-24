@@ -74,11 +74,11 @@ const Home = () => {
               <div className="views">
                 <Eye size={20} /> {card.views}
               </div>
-              <div className={`stars ${card.rating >= 4 ? "green" : "red"}`}>
+              <div className={`stars ${card.stars >= 4 ? "green" : "red"}`}>
                 <Star
                   size={17}
-                  fill={`${card.stars > 4 ? "#278717" : "#E57601"}`}
-                  color={`${card.stars > 4 ? "#278717" : "#E57601"}`}
+                  fill={`${card.stars >= 4 ? "#278717" : "#E57601"}`}
+                  color={`${card.stars >= 4 ? "#278717" : "#E57601"}`}
                 />
                 {card.stars}
               </div>

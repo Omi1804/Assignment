@@ -1,7 +1,9 @@
 export const cardDetails = [
   {
     id: 1,
-    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"],
+    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"].sort(
+      () => 0.5 - Math.random()
+    ),
     liked: false,
     mostLiked: true,
     views: "41,172",
@@ -17,7 +19,9 @@ export const cardDetails = [
 
   {
     id: 2,
-    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"],
+    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"].sort(
+      () => 0.5 - Math.random()
+    ),
     liked: false,
     mostLiked: true,
     views: "41,172",
@@ -33,7 +37,9 @@ export const cardDetails = [
 
   {
     id: 3,
-    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"],
+    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"].sort(
+      () => 0.5 - Math.random()
+    ),
     liked: false,
     mostLiked: true,
     views: "41,172",
@@ -49,7 +55,9 @@ export const cardDetails = [
 
   {
     id: 4,
-    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"],
+    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"].sort(
+      () => 0.5 - Math.random()
+    ),
     liked: false,
     mostLiked: true,
     views: "41,172",
@@ -65,7 +73,9 @@ export const cardDetails = [
 
   {
     id: 5,
-    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"],
+    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"].sort(
+      () => 0.5 - Math.random()
+    ),
     liked: false,
     mostLiked: true,
     views: "41,172",
@@ -80,7 +90,9 @@ export const cardDetails = [
   },
   {
     id: 6,
-    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"],
+    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"].sort(
+      () => 0.5 - Math.random()
+    ),
     liked: false,
     mostLiked: true,
     views: "41,172",
@@ -96,7 +108,9 @@ export const cardDetails = [
 
   {
     id: 7,
-    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"],
+    image: ["/bul1.png", "/bul2.png", "/bul3.png", "/bul4.png"].sort(
+      () => 0.5 - Math.random()
+    ),
     liked: false,
     mostLiked: true,
     views: "41,172",
